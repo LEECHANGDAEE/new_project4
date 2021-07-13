@@ -14,8 +14,10 @@
                    class="btn btn-dark rounded-pill px-3">
 
         </form>
+        {% for data in data_list %}
+        <h3>{{ data.text }}</h3>
+        {% endfor %}
 
-        <h3>{{ new_model.text }}</h3>
 
 
     </div>
