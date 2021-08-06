@@ -42,3 +42,11 @@
     color: dimgrey;
 }
 
+.article_image{
+    border-radius: 2rem;
+    width: 65%;
+    box-shadow: 0 0 1rem grey #b4b4b4;
+}
+
+
+
