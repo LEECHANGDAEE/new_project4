@@ -1,5 +1,5 @@
 .pragmatic_header_logo {
-    margin: 2rem 0;font-family: 'Indie Flower', cursive;
+    margin: 2rem 0;font-family: 'Pacifico', cursive;
 }
 
 .pragmatic_header_button{
@@ -7,11 +7,12 @@
 }
 
 .pragmatic_footer_logo{
-    margin: 1.5rem 0;font-family: 'Indie Flower', cursive;
+    margin: 1.5rem 0;font-family: 'Pacifico', cursive;
 }
 .pragmatic_footer_button{
     margin-top: 1.5rem;
 }
+
 
 .mw-500 {
     max-width: 500px;
@@ -25,6 +26,7 @@
     object-fit: cover;
 
 }
+
 
 .NNS_B {
     font-family: "NanumSquareB", cursive;
@@ -42,6 +44,13 @@
     color: dimgrey;
 }
 
+
+.article_content{
+    font-size: 1.1rem;
+    text-align: left;
+}
+
+
 .article_image{
     border-radius: 2rem;
     width: 65%;
@@ -58,14 +67,12 @@
     margin: 1rem;
 }
 
-
 @media screen and (max-width: 500px) {
     html{
         /* default font-size = 16px */
         font-size: 13px;
     }
 }
-
 
 a {
     text-decoration: none;
